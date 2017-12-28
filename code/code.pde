@@ -4,10 +4,6 @@
  * Inspired by the Helpless Robot
  * A Robot Protect its Friend, the Dog
  */
- 
-import processing.sound.*;
-SoundFile file;
-
 
 import processing.serial.*;
 import cc.arduino.*;
