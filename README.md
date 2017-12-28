@@ -7,7 +7,7 @@ The robot is tasked with keeping its friend safe, but the robot has no real phys
 
 ### Video
 
-[The Robot in Action]
+[The Robot in Action](https://github.com/fangherk/HelplessRobot/blob/master/video/cr3.mp4) using iMovie for the first time-
 
 ### Notable Components
 
