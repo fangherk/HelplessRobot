@@ -11,13 +11,16 @@ The robot is tasked with keeping its friend safe, but the robot has no real phys
 
 ### Notable Components
 
+Hardware: 
 - Arduino Uno
 - Servo Motor
 - Aluminum Foil
-- Processing for interfacing with Arduino Firmata loaded onto the Arduino
--- TTSlib, requires MBROLA setup
--- OpenCV
--- Arduino Firmata
--- Video
+
+Software:
+*Processing for interfacing with Arduino Firmata loaded onto the Arduino*
+- TTSlib, requires MBROLA setup
+- OpenCV
+- Arduino Firmata
+- Video
 
 
